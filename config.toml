@@ -89,7 +89,17 @@ body = "The tool helps you get a good grasp of what is achievable in your budget
 [[params.three.feature]]
 icon = "solid fa-cube"
 title = "What layout fits me?"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+body = "Let's figure out what layout fits you and what products fit that layout."
+
+[[params.three.feature]]
+icon = "solid fa-toolbox"
+title = "Why not just build it myself?"
+body = "Are you a carpenter or have you build more than 5 pieces of furniture before?"
+
+[[params.three.feature]]
+icon = "solid fa-hammer"
+title = "Why not build it out of 2by2 or 4by4?"
+body = "Sqeaking, constant vibration, weight to name a few issues."
 
 [params.contact]
 enable = true
