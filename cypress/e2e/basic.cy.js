@@ -4,7 +4,7 @@ describe('empty spec', () => {
   })
   it('displays the resources text', () => {
     cy.get('h2')
-    .contains('van conversions are hard');
+    .contains('van configurator');
   })
   it('renders the image', () => {
     cy.get('img')
