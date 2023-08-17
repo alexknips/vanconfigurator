@@ -1,4 +1,125 @@
-baseURL = 'http://hugo-quickstart-template.netlify.com'
-languageCode = 'en-us'
-title = 'Netlify + Hugo Quickstart'
-theme = 'netlify-basic'
+baseURL = 'https://bejewelled-mousse-10eeb7.netlify.app'
+title = 'Van Configurator'
+theme = 'spectral'
+languageCode = "en-us"
+defaultContentLanguage = "en"
+paginate = "7"
+
+[params]
+fancyTitle = "Van Configurator"
+copyright = "Alexander Knips"
+description = "Van conversions are hard<br/>Let's make them easier."
+startbuttonText = "Sign up"
+startbuttonLink = "#"
+body_is_markdown = true
+#custom_css = "foo.css"
+#images = ["path_to_social_image_for_link_previews.jpg"]
+
+[[params.menu.main]]
+url = '/'
+title = "Home"
+
+[[params.menu.main]]
+url = '/posts/'
+title = "Posts"
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    series = "series"
+
+[params.one]
+enable = true
+title = "Do you want to build every single item in a van conversion yourself?"
+body = '''
+Maybe, but more likely you want to spend time to enjoy your van and use it on weekends or fulltime.
+The van conversion market is big and the van configuration tool will help you get the products necessary for your van conversion.
+'''
+
+#[[params.one.icon]]
+#icon = "fa-gem"
+#style = "1"
+#label = "Lorem"
+#
+#[[params.one.icon]]
+#icon = "fa-heart"
+#style = "2"
+#label = "Ipsum"
+#
+#[[params.one.icon]]
+#icon = "solid fa-code"
+#style = "3"
+#label = "Dolor"
+
+[params.two]
+enable = true
+
+[[params.two.section]]
+img = "img/group4.png"
+title = 'Selection of features'
+body = 'The van configurator will help the customer choosing products fitting their needs while etimating the costs, necessary time and skill.'
+
+[[params.two.section]]
+img = "img/group2.png"
+title = 'Configuration'
+body = 'After selection of the wanted features the user selects matching products to their liking.'
+
+[params.three]
+enable = true
+title = 'Why?'
+body = '''
+Van conversions are hard. I have gone through the process and have seem many skilled people struggle and this tools aims to help people achieve their dream van.
+'''
+
+[[params.three.feature]]
+icon = "solid fa-dollar-sign"
+title = "Custom conversions are expensive"
+body = "Luxury custom conversion vans are out of reach for many customers often costing 100k USD plus the cost of the van."
+
+[[params.three.feature]]
+icon = "solid fa-heart"
+title = "Quality"
+body = "We feature quality products only and work toegether with awesome vendors."
+
+[[params.three.feature]]
+icon = "solid fa-bolt"
+title = "What to buy?"
+body = "The tool helps you get a good grasp of what is achievable in your budget and skillset."
+
+[[params.three.feature]]
+icon = "solid fa-cube"
+title = "What layout fits me?"
+body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+
+[params.contact]
+enable = true
+title = "Contact"
+body = "Leave us a message."
+phone = ""
+address = ""
+email = "alex.knips+vanconfigurator@gmail.com"
+subject = "New Submission!"
+formspree_form_id = "example_invalid"
+
+[params.social]
+twitter = ""
+mastodon = ""
+github = ""
+facebook = ""
+youtube = ""
+instagram = ""
+dribble = ""
+
+# language specific options
+
+[languages.en]
+weight = 0
+languageName = "English"
+
+[languages.de]
+weight = 10
+languageName = "Deutsch"
+
+[languages.es]
+weight = 10
+languageName = "Español"
