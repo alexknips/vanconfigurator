@@ -10,7 +10,7 @@ fancyTitle = "Van Configurator"
 copyright = "Alexander Knips"
 description = "Van conversions are hard<br/>Let's make them easier."
 startbuttonText = "Sign up"
-startbuttonLink = "#"
+startbuttonLink = "#contact"
 body_is_markdown = true
 #custom_css = "foo.css"
 #images = ["path_to_social_image_for_link_previews.jpg"]
@@ -19,14 +19,14 @@ body_is_markdown = true
 url = '/'
 title = "Home"
 
-[[params.menu.main]]
-url = '/posts/'
-title = "Posts"
+#[[params.menu.main]]
+#url = '/posts/'
+#title = "Posts"
 
 [taxonomies]
-    tag = "tags"
-    category = "categories"
-    series = "series"
+tag = "tags"
+category = "categories"
+series = "series"
 
 [params.one]
 enable = true
