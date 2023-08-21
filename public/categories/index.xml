@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Van Configurator</title>
-    <link>https://bejewelled-mousse-10eeb7.netlify.app/categories/</link>
+    <link>https://vanconfigurator.com/categories/</link>
     <description>Recent content in Categories on Van Configurator</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://bejewelled-mousse-10eeb7.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://vanconfigurator.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>syntax</title>
-      <link>https://bejewelled-mousse-10eeb7.netlify.app/categories/syntax/</link>
+      <link>https://vanconfigurator.com/categories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://bejewelled-mousse-10eeb7.netlify.app/categories/syntax/</guid>
+      <guid>https://vanconfigurator.com/categories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://bejewelled-mousse-10eeb7.netlify.app/categories/themes/</link>
+      <link>https://vanconfigurator.com/categories/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://bejewelled-mousse-10eeb7.netlify.app/categories/themes/</guid>
+      <guid>https://vanconfigurator.com/categories/themes/</guid>
       <description></description>
     </item>
     
