@@ -32,7 +32,7 @@ series = "series"
 enable = true
 title = "Do you want to build every single item in a van conversion yourself?"
 body = '''
-Maybe, but more likely you want to spend time to enjoy your van and use it on weekends or fulltime.
+Maybe, but more likely you want to spend time to enjoy your van and use it on weekends or fulltime.<br/>
 The van conversion market is big and the van configuration tool will help you get the products necessary for your van conversion.
 '''
 
@@ -79,7 +79,7 @@ body = "Luxury custom conversion vans are out of reach for many customers often 
 [[params.three.feature]]
 icon = "solid fa-heart"
 title = "Quality"
-body = "We feature quality products only and work toegether with awesome vendors."
+body = "We feature quality products only and work together with awesome vendors."
 
 [[params.three.feature]]
 icon = "solid fa-bolt"
