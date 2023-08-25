@@ -109,7 +109,7 @@ phone = ""
 address = ""
 email = "alex.knips+vanconfigurator@gmail.com"
 subject = "New Submission!"
-formspree_form_id = "example_invalid"
+formspree_form_id = "mvojadoo"
 
 [params.social]
 twitter = ""
